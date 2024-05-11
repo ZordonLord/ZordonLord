@@ -4,14 +4,13 @@
 
 Меня зовут Денис, хочу изучить программирование для создания своих проектов и решения интересных задач. Хочу сменить профессию, иметь возможность работать в любой точке платены, не быть привязанным к месту.
 
-### Languages and tools
+### Языки и инструменты:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="float: left; width: 50px; height: 50px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="float: left; width: 50px; height: 50px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="float: left; width: 50px; height: 50px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="float: left; width: 50px; height: 50px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="float: left; width: 50px; height: 50px;" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="float: left; width: 50px; height: 50px; margin-right: 10px;" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="float: left; width: 50px; height: 50px; margin-right: 10px;" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="float: left; width: 50px; height: 50px; margin-right: 10px;" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="float: left; width: 50px; height: 50px; margin-right: 10px;" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" style="float: left; width: 50px; height: 50px; margin-right: 10px;" />&nbsp;
 
 
 ### Моя статистика:

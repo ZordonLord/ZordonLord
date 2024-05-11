@@ -6,7 +6,7 @@
 
 ### Мой сайт по информационным технологиям:
 
-<a href="https://gexus.ru/">Gexus.ru</a>
+<a href="https://gexus.ru/" target="_blank">Gexus.ru</a>
 
 ### Языки и инструменты:
 

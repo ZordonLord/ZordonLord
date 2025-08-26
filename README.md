@@ -54,8 +54,8 @@ Frontend макет интернет-магазина:
 
 - **Email:** zordonlord@mail.ru  
 - **Telegram:** @zordonlord  
-- **GitHub:** [github.com/ZordonLord](https://github.com/ZordonLord)  
-- **Портфолио:** [Gexus.ru](http://gexus.ru)  
+- **GitHub:** [github.com/ZordonLord](https://github.com/ZordonLord)
+- **vk:** vk.com/zordonlord
 
 ---
 

@@ -1,11 +1,11 @@
-# Денис Утямишев — Junior Full-Stack Developer
+# Денис Утямишев — Full-Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-zordonlord%40mail.ru-blue)](mailto:zordonlord@mail.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-ZordonLord-black?logo=github)](https://github.com/ZordonLord)
 [![VK](https://img.shields.io/badge/VK-Profile-4680C2?logo=vk&logoColor=white)](http://vk.com/zordonlord)
 [![Website](https://img.shields.io/badge/Site-gexus.ru-orange?logo=google-chrome&logoColor=white)](http://gexus.ru)
 
-Full-stack разработчик с опытом создания и деплоя веб-приложений. Прошёл профессиональную переподготовку и активно развиваюсь в **React, PHP, Python и DevOps**. Ищу позицию junior/full-stack разработчика или стажировку.
+Full-stack разработчик с опытом создания и деплоя веб-приложений. Прошёл профессиональную переподготовку и активно развиваюсь в **React, PHP, Python и DevOps**. Ищу позицию full-stack разработчика или стажировку.
 
 ---
 
@@ -63,7 +63,7 @@ Full-stack разработчик с опытом создания и депло
 </div>
 ---
 
-_Ищу junior/full-stack позицию или стажировку. Готов быстро обучаться, участвовать в командной разработке и приносить пользу продукту._
+_Ищу full-stack позицию или стажировку. Готов быстро обучаться, участвовать в командной разработке и приносить пользу продукту._
 
 
 ### Мой сайт по информационным технологиям:

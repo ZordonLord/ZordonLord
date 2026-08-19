@@ -19,7 +19,10 @@
 - создавать адаптивные React-интерфейсы и организовывать клиентскую маршрутизацию;
 - проектировать REST API на PHP и разделять ответственность между Router, Controller,
   Service и Repository;
-- работать с PostgreSQL/SQLite, кэшированием и внешними API;
+- интегрировать внешние сервисы и CRM через REST API и OAuth 2.0;
+- проектировать обработку webhook-событий и синхронизацию данных между внешним API
+  и локальным хранилищем;
+- работать с PostgreSQL/SQLite, кэшированием, пагинацией, нормализацией и поиском дублей;
 - контейнеризировать локальную инфраструктуру с Docker Compose;
 - поддерживать качество кода через PHPUnit, PHP_CodeSniffer, ESLint и сборку frontend;
 - разбираться в задаче целиком: от структуры данных и бизнес-логики до UX и деплоя.
@@ -64,6 +67,12 @@ frontend.
 
 Full-stack приложение для управления задачами с **JWT-авторизацией, REST API,
 адаптивным интерфейсом, Docker-деплоем и CI/CD через GitHub Actions**.
+
+### [AmoCRM Client — PHP-интеграция с amoCRM API](https://github.com/ZordonLord/AmoCRMoAuth2)
+
+Прикладной PHP-клиент для amoCRM с **OAuth 2.0, управлением контактами и сделками,
+SQLite-синхронизацией, webhook-обработкой и поиском дублей** по системным и пользовательским
+полям.
 
 ### [LuxFashion — React + TypeScript](https://github.com/ZordonLord/react-js-luxfashion)
 

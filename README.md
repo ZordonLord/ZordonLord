@@ -1,16 +1,14 @@
 # Денис Утямишев — Full-Stack Developer
 
-Разрабатываю веб-приложения от интерфейса до API, базы данных и запуска. Основной
-фокус — **React, PHP, PostgreSQL и Docker**. Люблю понятную архитектуру, работающие
-пользовательские сценарии и решения, которые можно развивать без лишней сложности.
+Разрабатываю веб-приложения от интерфейса до API, базы данных и запуска. Специализируюсь на связке React + PHP/Python + PostgreSQL. 
 
 [![Email](https://img.shields.io/badge/Email-zordonlord%40mail.ru-blue)](mailto:zordonlord@mail.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-ZordonLord-black?logo=github)](https://github.com/ZordonLord)
 [![VK](https://img.shields.io/badge/VK-Profile-4680C2?logo=vk&logoColor=white)](https://vk.com/zordonlord)
 [![Website](https://img.shields.io/badge/Site-gexus.ru-orange?logo=google-chrome&logoColor=white)](https://gexus.ru)
 
-Прошёл профессиональную переподготовку и последовательно развиваюсь в full-stack
-разработке, тестировании, DevOps-практиках и проектировании REST API.
+Интересуюсь IT и программированием с 2010 года, а последние два года прошел интенсивную профессиональную специализацию (720 ак. часов, диплом), систематизировав знания до уровня production-ready решений.
+Ищу команду, где смогу применять свой full-stack опыт для решения реальных бизнес-задач и продолжать расти как инженер.
 
 ---
 
